@@ -1,0 +1,9 @@
+{
+  "name": "mern-simplesetup",
+  "version": "1.0.0",
+  "description": "Quick check for MERN stack installation",
+  "main": "index.js",
+  "repository": "https://github.com/Ioannna/mern-simplesetup.git",
+  "author": "Ioana Biris <ioanabiiris@gmail.com>",
+  "license": "MIT"
+}
